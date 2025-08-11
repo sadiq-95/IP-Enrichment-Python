@@ -79,7 +79,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 ### Install Dependencies:
 ```bash
-pip install -r requirements.txt  # If requirements.txt exists, or use the pip command above
+pip install -r requirements.txt 
 ```
 
 ### Configure API Keys:
@@ -195,9 +195,9 @@ Please follow Python best practices and include tests if adding new features.
 This project is licensed under the **MIT License**. See the LICENSE file for details.
 
 ## Contact
-**Author:** Sadiq-95 (Fresher in Cybersecurity)  
+**Author:** Sadiq-95
 **GitHub:** sadiq-95  
-**LinkedIn:** Your LinkedIn Profile  
-**Email:** [your-email@example.com]
+**LinkedIn:** https://www.linkedin.com/in/m-sadiq-70a7bb254/ 
+**Email:** mrsadiq2005@gmail.com
 
 Feel free to reach out for feedback, collaborations, or job opportunities in cybersecurity! This project was built as part of my journey into threat intelligence and SOC operations.
