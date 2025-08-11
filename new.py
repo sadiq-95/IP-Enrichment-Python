@@ -12,10 +12,10 @@ from rich.panel import Panel
 console = Console()
 
 # API keys (replace with your own keys)
-ABUSEIPDB_API_KEY = "5d8d5b1dc0340093c330e09b65b7fd75e250e2b2fbc6aa08c34220ff2b00066693cce2fb0f1d346c"  # Get from abuseipdb.com
-IPINFO_TOKEN = "fc82db3e57f44c"  # Get from ipinfo.io
-VIRUSTOTAL_API_KEY = "59fa745639b8cc22e0e65e0319de420779553b1ffba2888a3e8d5ed7e6d8c452"  # Get from virustotal.com
-GREYNOISE_API_KEY = "CSwfcuJJBOuT12txAigJTWyDzu2xVgiSwdEA6zX4hX8XnBlgXloVlJZqjA1CY2fS"  # Get from greynoise.io
+ABUSEIPDB_API_KEY = "<your-api-key>"  # Get from abuseipdb.com
+IPINFO_TOKEN = "<your-api-key>"  # Get from ipinfo.io
+VIRUSTOTAL_API_KEY = "<your-api-key>"  # Get from virustotal.com
+GREYNOISE_API_KEY = "<your-api-key>"  # Get from greynoise.io
 
 # List of IPs to enrich (default for testing)
 default_ip_list = ["8.8.8.8", "1.1.1.1", "104.238.159.149"]
